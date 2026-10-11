@@ -29,6 +29,10 @@ npx serve .
 | `style.css` | XP look and feel |
 | `app.js` | Window manager, apps, puzzles, story |
 
+## SEO
+
+`index.html` has title, description, canonical, Open Graph / Twitter cards (`og-image.png`) and JSON-LD (VideoGame). `robots.txt` and `sitemap.xml` are included. If you move to a custom domain, update the URL in those three places (`index.html`, `robots.txt`, `sitemap.xml`).
+
 ## Notes
 
 Spoilers for the puzzle chain are intentionally not in this README. To reset progress, use Start → Reset archive.
