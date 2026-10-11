@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Lost Internet</title>
+<meta name="description" content="A piece of the internet from 2005–2015, found by accident.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="boot" aria-live="polite"></div>
+<div id="login" hidden>
+  <div class="lg-top"></div>
+  <div class="lg-mid">
+    <div class="lg-left"><div class="lg-logo">Lost<br>Internet<small>Professional</small></div><p>To begin, click your user name</p></div>
+    <div class="lg-right"><button id="guest" class="lg-user"><span class="lg-av">🙂</span><span><b>Guest</b><small>Logged off</small></span></button></div>
+  </div>
+  <div class="lg-bot"></div>
+</div>
+<div id="desktop" hidden>
+  <div id="icons"></div>
+  <div id="windows"></div>
+  <div id="startmenu" hidden>
+    <div class="sm-head"><span>🙂</span> Guest</div>
+    <div class="sm-body" id="sm-body"></div>
+  </div>
+  <div id="taskbar">
+    <button id="start"><i>⊞</i> start</button>
+    <div id="tasks"></div>
+    <div id="tray"><span title="Volume">🔊</span><span id="clock"></span></div>
+  </div>
+</div>
+<script src="app.js"></script>
+</body>
+</html>
