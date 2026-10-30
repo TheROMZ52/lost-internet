@@ -1,3 +1,5 @@
+[English](README.md) · [فارسی](README.fa.md)
+
 # 🕵️ Lost Internet
 
 A website that feels like a piece of the internet from 2005–2015 that you found by accident: a Windows XP desktop, folders with secrets, lost videos, an encrypted chat, fake old websites in Internet Explorer, and a hidden password that opens a new section. Everything connects to one hidden story (a small ARG).
