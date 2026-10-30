@@ -2,6 +2,7 @@
 
 # 🕵️ Lost Internet
 
+A little digital time machine for people who miss the web before everything became an app. Expect nostalgia; watch out for secrets.
 A website that feels like a piece of the internet from 2005–2015 that you found by accident: a Windows XP desktop, folders with secrets, lost videos, an encrypted chat, fake old websites in Internet Explorer, and a hidden password that opens a new section. Everything connects to one hidden story (a small ARG).
 
 No build step, no dependencies, no downloads. Pure HTML/CSS/JS.
